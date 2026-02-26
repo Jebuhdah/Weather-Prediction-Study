@@ -1,4 +1,3 @@
-Introduction Section
 The goal of the study is to construct a model based on the weather dataset, that can be used to 
 acceptably predict if it will rain tomorrow, or equivalently the value of RainTomorrow. The 
 model will include various weather characteristics as predictors that are influential. Precipitation 
